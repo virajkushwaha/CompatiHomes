@@ -1,0 +1,11 @@
+# Core Django
+Django>=4.2
+
+# PostgreSQL database driver
+psycopg2-binary>=2.9
+
+# For loading environment variables from .env file
+python-dotenv>=1.0
+
+# (Optional) For more readable REST APIs if you plan to add APIs
+djangorestframework>=3.14
